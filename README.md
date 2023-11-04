@@ -61,7 +61,7 @@ print("--------------------------------------------------------------")
 
 
 ## Output :
-![image](https://github.com/kaviya2839/Muttiple-capacity-with-infinite-capacity/assets/120553351/7b81c63d-fa94-4014-868b-693234779fbe)
+![image](https://github.com/kaviya2839/Muttiple-capacity-with-infinite-capacity/assets/120553351/5f3876e4-0fc1-4b85-8d06-b56fc48f67e3)
 
 
 ## Result : 
